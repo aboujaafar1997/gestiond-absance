@@ -1,0 +1,99 @@
+C:\Users\othmane\AppData\Local\Temporary Projects\pfe-1\bin\Debug\pfe-1.exe
+C:\Users\othmane\AppData\Local\Temporary Projects\pfe-1\bin\Debug\pfe-1.pdb
+C:\Users\othmane\AppData\Local\Temporary Projects\pfe-1\bin\Debug\pfe-1.xml
+C:\Users\othmane\AppData\Local\Temporary Projects\pfe-1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\othmane\AppData\Local\Temporary Projects\pfe-1\obj\x86\Debug\pfe_1.Resources.resources
+C:\Users\othmane\AppData\Local\Temporary Projects\pfe-1\obj\x86\Debug\pfe-1.vbproj.GenerateResource.Cache
+C:\Users\othmane\AppData\Local\Temporary Projects\pfe-1\obj\x86\Debug\pfe-1.exe
+C:\Users\othmane\AppData\Local\Temporary Projects\pfe-1\obj\x86\Debug\pfe-1.xml
+C:\Users\othmane\AppData\Local\Temporary Projects\pfe-1\obj\x86\Debug\pfe-1.pdb
+C:\Users\othmane\AppData\Local\Temporary Projects\pfe-1\obj\x86\Debug\pfe_1.login.resources
+C:\Users\othmane\AppData\Local\Temporary Projects\pfe-1\obj\x86\Debug\pfe_1.pricipale1.resources
+C:\Users\othmane\AppData\Local\Temporary Projects\pfe-1\obj\x86\Debug\pfe_1.Etudient.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe-1.exe
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe-1.xml
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe-1.pdb
+C:\Users\othmane\Desktop\pfe-1\pfe-1\bin\Debug\pfe-1.pdb
+C:\Users\othmane\Desktop\pfe-1\pfe-1\bin\Debug\pfe-1.xml
+C:\Users\othmane\Desktop\pfe-1\pfe-1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.Etudient.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.login.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.Resources.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.pricipale1.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe-1.vbproj.GenerateResource.Cache
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.Professeur.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.notification.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.chargement.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe-1.vbprojResolveAssemblyReference.cache
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.parametrevb.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.feliere1.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.absance_1.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.Ajouteru.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.matiere.resources
+F:\s3\pfe-1\pfe-1\obj\x86\Debug\pfe-1.exe
+F:\s3\pfe-1\pfe-1\obj\x86\Debug\pfe-1.xml
+F:\s3\pfe-1\pfe-1\obj\x86\Debug\pfe-1.pdb
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.utilisateur.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.fiche__profvb.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.fiche_etudiant.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.statistique.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.emplois.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.historique.resources
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.affiche_emplois.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe-1.exe
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe-1.xml
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe-1.pdb
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\bin\Debug\pfe-1.pdb
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\bin\Debug\pfe-1.xml
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe-1.vbprojResolveAssemblyReference.cache
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.absance_1.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.affiche_emplois.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.Ajouteru.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.emplois.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.Etudient.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.feliere1.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.fiche__profvb.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.fiche_etudiant.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.historique.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.login.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.matiere.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.Resources.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.notification.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.parametrevb.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.pricipale1.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.Professeur.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.chargement.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.statistique.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe_1.utilisateur.resources
+C:\Users\othmane\Desktop\project vb\pfe-1\pfe-1\obj\x86\Debug\pfe-1.vbproj.GenerateResource.Cache
+C:\Users\othmane\Desktop\pfe-1\pfe-1\obj\x86\Debug\pfe_1.left_bare.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe-1.vbprojResolveAssemblyReference.cache
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.absance_1.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.affiche_emplois.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.Ajouteru.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.emplois.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.Etudient.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.feliere1.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.fiche__profvb.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.fiche_etudiant.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.historique.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.login.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.matiere.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.Resources.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.notification.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.parametrevb.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.pricipale1.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.Professeur.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.chargement.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.statistique.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.left_bare.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe_1.utilisateur.resources
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe-1.vbproj.GenerateResource.Cache
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe-1.exe
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe-1.xml
+E:\pfe-1\pfe-1\obj\x86\Debug\pfe-1.pdb
+E:\pfe-1\pfe-1\bin\Debug\pfe-1.pdb
+E:\pfe-1\pfe-1\bin\Debug\pfe-1.xml
+E:\pfe-1\pfe-1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\pfe-1\pfe-1\bin\Debug\MySql.Data.dll
+E:\pfe-1\pfe-1\bin\Debug\MySql.Data.xml
